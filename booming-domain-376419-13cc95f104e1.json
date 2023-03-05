@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "booming-domain-376419",
+  "private_key_id": "13cc95f104e12247dbb6f5c141e13a159d45f236",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCigc3IRgG1/6nU\ntmIHfvxrP+D/OTYhye4WbNYomzzSLf/qdwlvHNyzHa08lpuAyL2e7U0g5fGUnMNm\nqfpoLH8f1wVdzfEnY6x6S5oPKq892T787Izxcx0x0zhsvKnqe/jVqr7qKpE6i5ea\nQutpTGKSPL8lfJEZ/3+RvT1CMtf70kcFNLYqRDlObcokdkPc+ottkNcubOgDI+Fp\nrrzNHdxZnMaN1tm3qTSsogMNBXGEgFrCtw0of4PMRrTFtW+3rUBo80Y0zPbZDyTA\nxelbUkRkQyceVqlSD6cPfW54l+8jUKgFj7z4b4w+09qfrjlDFsOkkyje5R04TB24\nroaSonKdAgMBAAECggEAAr/5kHsGymKiKBRSAlh2wwXYs9ju/pFhMwXydctyswfO\nPdR312aAoZNN/Cl8RiifdNIFLRpXBTHF6LXVo++k0xAbaiPzAbyhDYy79ae+QWis\ntTD3jZpqEw7E9KoYofwpEMyL4ICJ5pi4Hwck3qpJPLpEbcj2157INNoj8DvWBc/Z\nNo0OZgrYrYB4t1dVAu8UHqofmEbP+ILP7nB7DPTIBs3w9Y7Nnnj+VIHkaYxpPI9H\nX4nYGL0ix8iBha+ojVRTETscn7hcDNu/Yv5DgzgZ0826H3lvT0DdRfldgfRF5T7Z\nVLqZyliIdOk6afFAhEK06Z3Bl+0tUYrPReycB30PIQKBgQDOGPBViXEJ/es2VJKU\nzYpk/DVBZyOlpTtSVTBlh972odiuPJsIkHCB6EKjBv26s0V5O+Hl1uxsMUGlqOjY\n8dKAfyspx1C+iu9udwYvJCWnlhJbGC6SPJz92/j1BuzXimbGOClBDJpn6n33czhi\nTyn9mpe8Y8vSNpMDXs4bKgamSQKBgQDJ2uRcODLRDU00DqqV1mZxSzaXTU80NgYB\nDmWHLx+89HvlpgGa16vuq2QCqbxHj1JxJoXUUCLI6IPzIv14xERh1W0xtCArGNjJ\nvQShopp7IAKlbXGL9chpS9bFxyEV3Ju5u99S2CL66CUa/0sHT4Qp6uU2/+JL/rFM\nCvT5lSPZtQKBgQCxr0KVHFe+m5IMV0HA1Kw6gE6RwpAzIY9RXmzJPCj4TXT4Uvv+\nmDjHZyz8TOy36BM/gGcztuZCKP1GC6gkUeiALCNUc6ijfjkK7ccBIZLtNy9AJksQ\nfP2Ex/+NkJjlA0e0IXs/v9PnP322tzmnWEUFhiDHpOp2o+J/h17+gG8XMQKBgQCq\nwZEMsj3KuwXkU8PanVRr4sR7mdq2wDy0CAm7IhInNmrZCmWxJ2E6taIU3qF3p7aG\nIaB0ypWif4+fzqm9z8pJONL2iPnte0do4Y1ZbsRgA+Q5LSwwyeqPqKg3BwzmAYl6\nxYNWAaEVv+wjunMt7AZRr3PX4v78aqhxO5OgzplVQQKBgQCSRuTkRyYVVjnJTTw7\nmUv6OlcgBKB9EOmvSm5mHuKoumiAJulU/ljjKcvGq5jDobab1O6+mUwLLF8j06tW\n85uX6fGzW//MVoS4YCxl5INaZ2ef+UdQoFmpR1j0YPtSBAH3ZcFwMwcVzV9lk0Gl\nQttJWOhYlng4Qn7WrFAHLE8v1Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@booming-domain-376419.iam.gserviceaccount.com",
+  "client_id": "112475744047671748655",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40booming-domain-376419.iam.gserviceaccount.com"
+}
